@@ -20,7 +20,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Chanukya03/Catalog-Software
+   git clone https://github.com/Rohith1809/Catalog-Software
    ```
 
 2. Change into the project directory:
