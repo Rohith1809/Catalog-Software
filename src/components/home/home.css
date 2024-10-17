@@ -1,0 +1,51 @@
+.body{
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(43, 55, 178, 0.699);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.body .title{
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.body .btn{
+    margin-top: 5rem;
+    text-decoration: none;
+    background: rgb(0, 0, 0);
+    padding: 1rem 3rem;
+    border-radius: 2rem;
+    cursor: pointer;
+    color: rgb(110, 149, 207);
+}
+
+.body .link{
+    margin-top: 1rem;
+    background: transparent;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    font-size: 0.8rem;
+}
+
+.body .link:hover{
+    background: transparent;
+    color: rgb(195, 195, 195);;
+}
+
+.body .desc{
+    font-size: 0.9rem;
+    color: rgb(5, 6, 5);
+    text-align: center;
+    margin: 1rem 20rem;
+    margin-top: 2rem;
+}
+
+.body a:hover{
+    background-color:rgb(163, 93, 47);
+    color: rgb(1, 1, 1);
+}
